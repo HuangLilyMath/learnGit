@@ -1,4 +1,4 @@
-# Git 基本概念和操作
+# Git 基本概念
 
 [Github官方最好的参考资料](https://try.github.io/)
 
@@ -75,7 +75,7 @@ TODO
 
 于是对于以下命令就可以用 VSCode 来操作
 
-1. git rebase HEAD~3 -i do interactive rebase using VS Code
-2. git commit use VS Code for the commit message
-3. git add -p followed by e for interactive add
-4. git difftool <commit>^ <commit> use VS Code as the diff editor for changes
+1. `git rebase HEAD~3 -i` do interactive rebase using VS Code
+2. `git commit` use VS Code for the commit message
+3. `git add -p` followed by e for interactive add
+4. `git difftool <commit>^ <commit>` use VS Code as the diff editor for changes
