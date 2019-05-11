@@ -8,7 +8,7 @@
 
 1. 在Github上创建仓库，并选择仓库的.gitingore文件（git可以自动忽略掉一些临时，或者程序自动生成的中间文件
 2. 在网页上点击按钮 Clone or Download 到本地，并复制弹出的连接 `git@github.com:MrGodfrey/learnGit.git` 
-3. 在本地的新建文件夹中，运行 `git clone git@github.com:MrGodfrey/learnGit.git`
+3. 在本地的想要存放Git仓库的文件夹中，运行 PowerShell， 并输入命令 `git clone git@github.com:MrGodfrey/learnGit.git`
 
 这样的操作还可以自动把Github上的远程分支和本地关联起来，免得之后的麻烦。
 
