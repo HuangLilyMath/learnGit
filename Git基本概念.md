@@ -78,3 +78,4 @@ Git 管理的文件的全体就是仓库 (repository)
 2. `git commit` use VS Code for the commit message
 3. `git add -p` followed by e for interactive add
 4. `git difftool <commit>^ <commit>` use VS Code as the diff editor for changes
+5. `git mergetool` 可以调用 VS Code 来处理合并的冲突
