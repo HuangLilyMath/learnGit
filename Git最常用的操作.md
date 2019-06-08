@@ -103,6 +103,12 @@ Git 真正强大的地方在于可以无痛创建分支并在分支间穿梭和�
 
 `git reverse <hash>` 可以新建一个提交，内容是 `<hash>` 之前的一次提交.
 
+### 远程仓库
+
+删除远程分支 `git push -d origin/branch-name`
+
+
+
 ## 整理提交记录
 
 ### cherry-pick
